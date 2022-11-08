@@ -412,9 +412,7 @@ describe("Sort chocolates based on count in each color - sortChocolateBasedOnCou
 
     let temp = ["red", "blue", "green", "red"];
 
-    sortChocolateBasedOnCount(temp);
-
-    let actualResult = temp;
+    let actualResult = sortChocolateBasedOnCount(temp); // fixed
 
     expect(actualResult).toEqual(expectedResult);
   });
@@ -628,7 +626,7 @@ describe("Sort chocolates based on count in each color - sortChocolateBasedOnCou
 
     sortChocolateBasedOnCount(candies);
 
-    let actualResult = candies;
+    let actualResult = sortChocolateBasedOnCount(candies); // fixed
 
     expect(actualResult).toEqual(expectedResult);
   });
@@ -640,7 +638,7 @@ describe("Sort chocolates based on count in each color - sortChocolateBasedOnCou
 
     sortChocolateBasedOnCount(temp);
 
-    let actualResult = temp;
+    let actualResult = sortChocolateBasedOnCount(temp); // fixed
 
     expect(actualResult).toEqual(expectedResult);
   });

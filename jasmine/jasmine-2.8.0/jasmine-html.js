@@ -169,7 +169,7 @@ jasmineRequire.HtmlReporter = function (j$) {
       var alert = find('.jasmine-alert');
       var order = doneResult && doneResult.order;
       labName.appendChild(createDom('img', {
-        src: 'jasmine/jasmine-2.8.0/face4d.png'
+        src: 'jasmine/jasmine-2.8.0/Logo-nav.png' // changed
       }, ''));
       labName.appendChild(createDom('span', {}, 'DAY 3 | Lab - 1 | Chocolate Dispenser'));
       alert.appendChild(createDom('span', {

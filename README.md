@@ -1,6 +1,6 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
+![Logo-nav copy.png](attachment:435e1be1-2786-425b-b13f-8e808ce2733b.png)
 
-# ProGrad Lab | Chocoloate Dispenser
+# Kalvium Lab | Chocoloate Dispenser
 
 Caitlyn loved chocolates and asked her mum to buy her a truck of chocolates. Her mum wasn't as generous, but she did buy Cait a tiny chocolate dispenser. However, she didn't teach Cait how to operate it. She would only give her one chocolate a day. Cait obviously wanted more, so much more.
 
@@ -75,4 +75,4 @@ Cait believes that all the best and newest chocolates are at the top of the mach
 
 Cait has found something incredible. Combining similar colored chocolates gives us an additional rainbow colored chocolate. She wants more of these, and less of her having to combine them. Create a function `dispenseRainbowChocolates()` which takes an argument `number` and _returns the number of rainbow chocolates_ dispensed for every 3 chocolates of the same color.
 
-Happy Coding ProGrad ❤️
+Happy Coding Kalvium ❤️
