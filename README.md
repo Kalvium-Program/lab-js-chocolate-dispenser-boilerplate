@@ -1,4 +1,4 @@
-![Logo-nav copy.png](attachment:435e1be1-2786-425b-b13f-8e808ce2733b.png)
+![Logo-nav copy](https://user-images.githubusercontent.com/109285740/200590889-e368c5d4-5d55-457d-a3f1-21f90bc536de.png)
 
 # Kalvium Lab | Chocoloate Dispenser
 
