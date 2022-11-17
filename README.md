@@ -1,4 +1,4 @@
-![Logo-nav copy](https://user-images.githubusercontent.com/109285740/200590889-e368c5d4-5d55-457d-a3f1-21f90bc536de.png)
+![Logo-nav copy](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | Chocoloate Dispenser
 
@@ -6,23 +6,6 @@ Caitlyn loved chocolates and asked her mum to buy her a truck of chocolates. Her
 
 Cait is now on a quest to create a virtual terminal which can directly access the chocolate machine. She needs **YOU** to help her code functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to satiate her sweet tooth.
 
-## What should you do
-```
-Fork this repo
-Clone this repo
-Practice JavaScript Arrays - higher order function
-```
-
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "ProGrad ID"
-git push origin master
-
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
-```
 
 ## Starter code
 
