@@ -207,17 +207,11 @@ jasmineRequire.HtmlReporter = function (j$) {
       var alert = find('.jasmine-alert');
       var order = doneResult && doneResult.order;
       labName.appendChild(
-        createDom(
-          'img',
-          {
-            src: 'jasmine/jasmine-2.8.0/Logo-nav.png', // changed
-          },
-          ''
-        )
+        createDom('img', {
+          src: 'https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png', // changed
+        })
       );
-      labName.appendChild(
-        createDom('span', {}, 'Lab - 2 | Chocolate Dispenser')
-      );
+      labName.appendChild(createDom('span', {}, 'Chocolate Dispenser'));
       alert.appendChild(
         createDom(
           'span',
