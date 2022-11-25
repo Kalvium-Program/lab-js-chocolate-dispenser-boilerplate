@@ -50,6 +50,8 @@ Cait wants to the ability to change the color of the chocolates now. Little does
 
 Caits wants to change all chocolates of a given color to some other color. Pretty sure she's trying to get rid of all the green chocolates. Create a function `changeChocolateColorAllOfxCount()` which takes the argument `chocolates,color, finalColor` and changes all chocolates of color to finalColor. It should _return [countOfFinalColorChocolates, chocolates]_.
 
+**NOTE:** Challenges are not included in test cases -> Challenges are meant for experimenting around.
+
 ### Challenge 1: Fresh pickings!
 
 Cait believes that all the best and newest chocolates are at the top of the machine. She needs help removing just one chocolate of the given color from the top. Create a function `removeChocolateOfColor()` which takes an argument `color` and removes one chocolate of the given color from the top.
